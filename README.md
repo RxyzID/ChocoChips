@@ -1,17 +1,17 @@
-</halo!
+# </halo!
 script ini dibuat oleh RxyzID
 dengan nama asli Ral
 terimakasih sudah membeli
 jasa pembuatan website kami>
 
-order?
+- order?
 [6289676226170]
 
-price?
+- price?
 cuma 20k kok!
 
-youtube
+- youtube
 link : https://www.youtube.com/@rxyzidofficial
 nama : RxyzID
 
-tq udh baca
+# tq udh baca
